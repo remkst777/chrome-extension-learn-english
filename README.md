@@ -19,3 +19,8 @@ https://github.com/lxieyang/chrome-extension-boilerplate-react.git
 - Settings page lets you customize your interface with a bunch of modes (Turn on\off DOM events, testing random\last words + number of words, get actual hash and import data by hash, reset data, etc).
 - Testing page lets you check your knowledges. Chrome notification (that is customized in settings) pops up periodically and you're redirected to this page
 - Extension is integrated with WEB application deployed on Amazon built by IPFS services and lets using IPFS hashes to prefill your vocabulary within extension.
+
+##### Application demo
+
+https://user-images.githubusercontent.com/31829395/187700870-2ec362be-3c9a-4152-95bd-56b413849b88.mov
+
